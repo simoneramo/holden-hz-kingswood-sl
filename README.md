@@ -1,1 +1,1 @@
-This simple website that shows the process a resto and rebuild of a 1978 HZ SL Kingswood.
+This is a simple website that shows the process a resto and rebuild of a 1978 HZ Holden Kingswood SL.
